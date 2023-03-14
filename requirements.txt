@@ -1,0 +1,4 @@
+geopandas==0.12.2
+pandas==1.2.4
+pydeck==0.8.0b3
+streamlit==1.13.0
