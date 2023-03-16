@@ -19,6 +19,7 @@ import pydeck as pdk
 import geopandas as gp
 
 
+st.set_page_config(page_title='Aforos Viewer')
 dirname = os.path.dirname(__file__)
 
 data_dirname = os.path.join(dirname,'data')
